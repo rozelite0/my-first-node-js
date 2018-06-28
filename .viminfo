@@ -1,0 +1,227 @@
+# この viminfo ファイルは Vim 7.4 によって生成されました.
+# 変更する際には十分注意してください!
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 最後の 検索パターン:
+~MSle0~/3.1
+
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:w
+:wq
+:wp
+:q!
+:q
+:p
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+?/3.1
+?/2.6
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+"1	LINE	0
+	     a) バラは赤い、
+"2	LINE	0
+	
+"3	LINE	0
+	     d) 貴方も学ぶことができる?
+"4	LINE	0
+	     d) 貴方も学ぶことができる?
+	     b) スミレは青い、
+	     c) 知恵とは学ぶもの、
+"5	LINE	0
+	     d) 貴方も学ぶことができる?
+"6	LINE	0
+	--->  5)  時計が時刻を告げる、
+	--->  6)  砂糖は甘い
+"7	LINE	0
+	--->  4)  私は車をもっている、
+"8	LINE	0
+	--->  2)  つまらないものは楽しい、
+""-	CHAR	0
+	し
+
+# ファイルマーク:
+'0  5  0  ~/workspace/git-study/wise.md
+'1  4  63  ~/workspace/git-study/wise.md
+'2  1  0  /tmp/crontab.K81WN2/crontab
+'3  23  57  /tmp/crontab.lSUoEy/crontab
+'4  387  5  /tmp/tutorJIozzN
+'5  384  0  /tmp/tutorCfQtMT
+'6  318  0  /tmp/tutor4XNlnk
+'7  1  0  ~/workspace/vim-study/test.txt
+'8  12  0  ~/.profile
+
+# ジャンプリスト (新しいものが先):
+-'  5  0  ~/workspace/git-study/wise.md
+-'  1  0  ~/workspace/git-study/wise.md
+-'  4  63  ~/workspace/git-study/wise.md
+-'  1  0  /tmp/crontab.K81WN2/crontab
+-'  23  57  /tmp/crontab.lSUoEy/crontab
+-'  1  0  /tmp/crontab.lSUoEy/crontab
+-'  387  5  /tmp/tutorJIozzN
+-'  1  0  /tmp/tutorJIozzN
+-'  384  0  /tmp/tutorCfQtMT
+-'  222  0  /tmp/tutorCfQtMT
+-'  1  0  /tmp/tutorCfQtMT
+-'  318  0  /tmp/tutor4XNlnk
+-'  1  0  /tmp/tutor4XNlnk
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  12  0  ~/.profile
+-'  1  0  ~/.profile
+-'  12  0  ~/.profile
+-'  1  0  ~/.profile
+-'  387  5  /tmp/tutorJIozzN
+-'  1  0  /tmp/tutorJIozzN
+-'  384  0  /tmp/tutorCfQtMT
+-'  222  0  /tmp/tutorCfQtMT
+-'  1  0  /tmp/tutorCfQtMT
+-'  318  0  /tmp/tutor4XNlnk
+-'  1  0  /tmp/tutor4XNlnk
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  12  0  ~/.profile
+-'  1  0  ~/.profile
+-'  12  0  ~/.profile
+-'  1  0  ~/.profile
+-'  23  57  /tmp/crontab.lSUoEy/crontab
+-'  1  0  /tmp/crontab.lSUoEy/crontab
+-'  387  5  /tmp/tutorJIozzN
+-'  1  0  /tmp/tutorJIozzN
+-'  384  0  /tmp/tutorCfQtMT
+-'  222  0  /tmp/tutorCfQtMT
+-'  1  0  /tmp/tutorCfQtMT
+-'  318  0  /tmp/tutor4XNlnk
+-'  1  0  /tmp/tutor4XNlnk
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  12  0  ~/.profile
+-'  1  0  ~/.profile
+-'  12  0  ~/.profile
+-'  1  0  ~/.profile
+-'  387  5  /tmp/tutorJIozzN
+-'  1  0  /tmp/tutorJIozzN
+-'  384  0  /tmp/tutorCfQtMT
+-'  222  0  /tmp/tutorCfQtMT
+-'  1  0  /tmp/tutorCfQtMT
+-'  318  0  /tmp/tutor4XNlnk
+-'  1  0  /tmp/tutor4XNlnk
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  12  0  ~/.profile
+-'  1  0  ~/.profile
+-'  12  0  ~/.profile
+-'  1  0  ~/.profile
+-'  1  0  /tmp/crontab.K81WN2/crontab
+-'  23  57  /tmp/crontab.lSUoEy/crontab
+-'  1  0  /tmp/crontab.lSUoEy/crontab
+-'  387  5  /tmp/tutorJIozzN
+-'  1  0  /tmp/tutorJIozzN
+-'  384  0  /tmp/tutorCfQtMT
+-'  222  0  /tmp/tutorCfQtMT
+-'  1  0  /tmp/tutorCfQtMT
+-'  318  0  /tmp/tutor4XNlnk
+-'  1  0  /tmp/tutor4XNlnk
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  12  0  ~/.profile
+-'  1  0  ~/.profile
+-'  12  0  ~/.profile
+-'  1  0  ~/.profile
+-'  387  5  /tmp/tutorJIozzN
+-'  1  0  /tmp/tutorJIozzN
+-'  384  0  /tmp/tutorCfQtMT
+-'  222  0  /tmp/tutorCfQtMT
+-'  1  0  /tmp/tutorCfQtMT
+-'  318  0  /tmp/tutor4XNlnk
+-'  1  0  /tmp/tutor4XNlnk
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  12  0  ~/.profile
+-'  1  0  ~/.profile
+-'  12  0  ~/.profile
+-'  1  0  ~/.profile
+-'  23  57  /tmp/crontab.lSUoEy/crontab
+-'  1  0  /tmp/crontab.lSUoEy/crontab
+-'  387  5  /tmp/tutorJIozzN
+-'  1  0  /tmp/tutorJIozzN
+-'  384  0  /tmp/tutorCfQtMT
+-'  222  0  /tmp/tutorCfQtMT
+-'  1  0  /tmp/tutorCfQtMT
+-'  318  0  /tmp/tutor4XNlnk
+-'  1  0  /tmp/tutor4XNlnk
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  12  0  ~/.profile
+-'  1  0  ~/.profile
+-'  12  0  ~/.profile
+-'  1  0  ~/.profile
+-'  387  5  /tmp/tutorJIozzN
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/workspace/git-study/wise.md
+	"	5	0
+	^	5	3
+	.	5	3
+	+	5	0
+	+	4	77
+	+	5	0
+	+	4	66
+	+	1	0
+	+	4	33
+	+	5	0
+	+	5	39
+	+	5	39
+	+	6	0
+	+	5	3
+
+> /tmp/crontab.K81WN2/crontab
+	"	1	0
+
+> /tmp/crontab.lSUoEy/crontab
+	"	23	57
+	^	23	45
+	.	23	1
+	+	24	0
+	+	22	28
+	+	23	1
+
+> /tmp/tutorJIozzN
+	"	387	5
+	.	386	0
+	+	387	0
+	+	389	0
+	+	386	0
+
+> /tmp/tutorCfQtMT
+	"	384	0
+	^	386	2
+	.	386	1
+	+	316	0
+	+	317	0
+	+	382	0
+	+	382	0
+	+	384	0
+	+	386	1
+
+> /tmp/tutor4XNlnk
+	"	318	0
+	^	133	59
+	.	316	0
+	+	83	59
+	+	108	63
+	+	131	56
+	+	133	56
+	+	315	0
+	+	316	0
+
+> ~/workspace/vim-study/test.txt
+	"	1	0
+
+> ~/.profile
+	"	12	0
